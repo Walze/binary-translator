@@ -46,8 +46,6 @@ binaryField.addEventListener('keyup', () => {
 
   if (!chars) return
 
-  console.log(chars)
-
   var text = ''
 
   for (let i = 0; i < chars.length; i++) {
